@@ -1,0 +1,8 @@
+{
+  "name": "ai-job-search-assistant",
+  "version": "0.1.0",
+  "description": "An AI-augmented job search pipeline: weekly job board review, rubric-scored fit assessment, tailored resume and cover letter generation, tracker spreadsheet updates, and a progress summary email. Never applies to jobs on the user's behalf.",
+  "author": { "name": "adriennedev" },
+  "keywords": ["job-search", "career", "resume", "cover-letter", "tracker", "agentic-workflow"]
+}
+
